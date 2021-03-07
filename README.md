@@ -1,7 +1,7 @@
 # The Political Origins of Education Decentralization.
 Thomas R. Vargas
 
-This repository hold the code to reproduce "The Political Origins of Education Decentralization." 
+This repository holds the code to reproduce "The Political Origins of Education Decentralization." 
 
 **Abstract**: What explains why some countries decentralize education while others shy away from such efforts? In the 1990s several Latin American countries reformed their education systems to give local communities more control over the management of public education. A prominent argument in the literature is that decentralization was pursued to improve the coverage and quality of education (Grindle 2004; Kaufman and Nelson 2004). Drawing on an in-depth case study of El Salvador with reference to Paraguay, and a statistical analysis of 93 presidential administrations covering 18 countries over 20 years, I show that education reform in Latin America was driven in part by political processes that had little to do with access in each country’s public education system. I argue that, depending on the configuration of political forces, education decentralization was pursued as part of an electoral strategy. Specifically, I show that incumbent political parties supported decentralizing reforms because they weakened teachers’ unions affiliated with opposition parties, thus depressing mobilization and votes for the opposition.
 
