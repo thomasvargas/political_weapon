@@ -1,3 +1,8 @@
+# figures
+figures/
+tables/
+data/
+
 # History files
 .Rhistory
 .Rapp.history
