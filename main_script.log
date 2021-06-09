@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.7)  7 JUN 2021 11:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.7)  9 JUN 2021 14:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -835,104 +835,147 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \openout3 = `main_script.ent'.
 
 [2] [3] [4] [5]
-<main_script_files/figure-latex/fig1-1.pdf, id=87, 358.33875pt x 206.7725pt>
+<main_script_files/figure-latex/fig1-1.pdf, id=101, 358.33875pt x 206.7725pt>
 File: main_script_files/figure-latex/fig1-1.pdf Graphic file (type pdf)
 <use main_script_files/figure-latex/fig1-1.pdf>
 Package pdftex.def Info: main_script_files/figure-latex/fig1-1.pdf  used on inp
-ut line 414.
+ut line 401.
 (pdftex.def)             Requested size: 358.3488pt x 206.77829pt.
 [6 <./main_script_files/figure-latex/fig1-1.pdf>] [7]
-<main_script_files/figure-latex/plotfig2-1.pdf, id=112, 359.3425pt x 207.77625p
+<main_script_files/figure-latex/plotfig2-1.pdf, id=125, 359.3425pt x 207.77625p
 t>
 File: main_script_files/figure-latex/plotfig2-1.pdf Graphic file (type pdf)
 <use main_script_files/figure-latex/plotfig2-1.pdf>
 Package pdftex.def Info: main_script_files/figure-latex/plotfig2-1.pdf  used on
- input line 501.
+ input line 488.
 (pdftex.def)             Requested size: 359.35806pt x 207.78523pt.
 [8 <./main_script_files/figure-latex/plotfig2-1.pdf>] [9]
-<main_script_files/figure-latex/plotfig3-1.pdf, id=135, 355.3275pt x 204.765pt>
+<main_script_files/figure-latex/plotfig3-1.pdf, id=148, 355.3275pt x 204.765pt>
 
 File: main_script_files/figure-latex/plotfig3-1.pdf Graphic file (type pdf)
 <use main_script_files/figure-latex/plotfig3-1.pdf>
 Package pdftex.def Info: main_script_files/figure-latex/plotfig3-1.pdf  used on
- input line 573.
+ input line 560.
 (pdftex.def)             Requested size: 355.33745pt x 204.77072pt.
-[10 <./main_script_files/figure-latex/plotfig3-1.pdf>]
+[10 <./main_script_files/figure-latex/plotfig3-1.pdf>] [11] [12]
 
-Package natbib Warning: Citation `mainwaring_juan_1997' on page 11 undefined on
- input line 611.
-
-
-Package natbib Warning: Citation `downs_economic_1957' on page 11 undefined on 
-input line 615.
+Package natbib Warning: Citation `nichter_votes_2018' on page 13 undefined on i
+nput line 727.
 
 
-Package natbib Warning: Citation `riker_theory_1984' on page 11 undefined on in
-put line 615.
+Package natbib Warning: Citation `stokes_brokers_2013' on page 13 undefined on 
+input line 727.
+
+[13]
+
+Package natbib Warning: Citation `gans-morse_varieties_2014' on page 14 undefin
+ed on input line 741.
 
 
-Package natbib Warning: Citation `lupu_toward_2019' on page 11 undefined on inp
-ut line 618.
+Package natbib Warning: Citation `nichter_vote_2008' on page 14 undefined on in
+put line 741.
 
 
-Package natbib Warning: Citation `mayhew_congress_1974' on page 11 undefined on
- input line 620.
+Package natbib Warning: Citation `stokes_brokers_2013' on page 14 undefined on 
+input line 741.
 
 
-Package natbib Warning: Citation `samuels_ambition_2003' on page 11 undefined o
-n input line 620.
+Package natbib Warning: Citation `szwarcberg_uncertainty_2012' on page 14 undef
+ined on input line 741.
 
 
-Package natbib Warning: Citation `whitfield_what_2011' on page 11 undefined on 
-input line 623.
+Package natbib Warning: Citation `mares_buying_2016' on page 14 undefined on in
+put line 744.
 
 
-Package natbib Warning: Citation `chhotray_political_2020' on page 11 undefined
- on input line 635.
+Package natbib Warning: Citation `oliveros_making_2016' on page 14 undefined on
+ input line 744.
 
 
-Package natbib Warning: Citation `garay_social_2016' on page 11 undefined on in
-put line 635.
+Package natbib Warning: Citation `weitzshapiro_what_2012' on page 14 undefined 
+on input line 744.
 
 
-Package natbib Warning: Citation `garay_social_2016' on page 11 undefined on in
-put line 636.
+Package natbib Warning: Citation `larreguy_political_2017' on page 14 undefined
+ on input line 750.
 
-[11] [12] [13] (./tables/table1.tex
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Package natbib Warning: Citation `pierskalla_personnel_2019' on page 14 undefin
+ed on input line 750.
 
-) [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25]
-<main_script_files/figure-latex/plotfig4-1.pdf, id=224, 338.26375pt x 243.91125
+
+Package natbib Warning: Citation `plank_means_1996' on page 14 undefined on inp
+ut line 750.
+
+
+Package natbib Warning: Citation `sandholtz_voters_2019' on page 14 undefined o
+n input line 750.
+
+
+Package natbib Warning: Citation `mainwaring_juan_1997' on page 14 undefined on
+ input line 756.
+
+
+Package natbib Warning: Citation `downs_economic_1957' on page 14 undefined on 
+input line 760.
+
+
+Package natbib Warning: Citation `riker_theory_1984' on page 14 undefined on in
+put line 760.
+
+
+Package natbib Warning: Citation `lupu_toward_2019' on page 14 undefined on inp
+ut line 763.
+
+
+Package natbib Warning: Citation `mayhew_congress_1974' on page 14 undefined on
+ input line 765.
+
+
+Package natbib Warning: Citation `samuels_ambition_2003' on page 14 undefined o
+n input line 765.
+
+
+Package natbib Warning: Citation `whitfield_what_2011' on page 14 undefined on 
+input line 768.
+
+[14] [15] [16] (./tables/table1.tex) [17] [18] [19] [20] [21] [22] [23] [24] [2
+5] [26] [27] [28]
+<main_script_files/figure-latex/plotfig4-1.pdf, id=251, 338.26375pt x 243.91125
 pt>
 File: main_script_files/figure-latex/plotfig4-1.pdf Graphic file (type pdf)
 <use main_script_files/figure-latex/plotfig4-1.pdf>
 Package pdftex.def Info: main_script_files/figure-latex/plotfig4-1.pdf  used on
- input line 1366.
+ input line 1487.
 (pdftex.def)             Requested size: 338.26807pt x 243.91435pt.
-[26 <./main_script_files/figure-latex/plotfig4-1.pdf>]
-<main_script_files/figure-latex/plotfig5-1.pdf, id=238, 554.07pt x 280.04625pt>
+[29 <./main_script_files/figure-latex/plotfig4-1.pdf>]
+<main_script_files/figure-latex/plotfig5-1.pdf, id=265, 554.07pt x 280.04625pt>
 
 File: main_script_files/figure-latex/plotfig5-1.pdf Graphic file (type pdf)
 <use main_script_files/figure-latex/plotfig5-1.pdf>
 Package pdftex.def Info: main_script_files/figure-latex/plotfig5-1.pdf  used on
- input line 1408.
+ input line 1529.
 (pdftex.def)             Requested size: 469.75275pt x 237.42935pt.
-[27] [28 <./main_script_files/figure-latex/plotfig5-1.pdf>] [29] (./main_script
-.ent [30] [31] [32] [33] [34] [35] [36] [37])
+[30] [31 <./main_script_files/figure-latex/plotfig5-1.pdf>] [32] (./main_script
+.ent [33] [34] [35]
+
+Package natbib Warning: Citation `gorgodze_rise_2016' on page 36 undefined on i
+nput line 1164.
+
+[36] [37] [38] [39] [40])
 
 Package natbib Warning: There were undefined citations.
 
-[38] (./main_script.aux)
+[41] (./main_script.aux)
 Package rerunfilecheck Info: File `main_script.out' has not changed.
-(rerunfilecheck)             Checksum: A11D37543CF9B578A9F565199C5EA75F;2902.
+(rerunfilecheck)             Checksum: 0630A751025D1A6260D436AA5F7D3473;3792.
  ) 
 Here is how much of TeX's memory you used:
- 17972 strings out of 481009
- 287148 string characters out of 5908040
- 664495 words of memory out of 5000000
- 34231 multiletter control sequences out of 15000+600000
- 552737 words of font info for 436 fonts, out of 8000000 for 9000
+ 17997 strings out of 481009
+ 287776 string characters out of 5908040
+ 663495 words of memory out of 5000000
+ 34244 multiletter control sequences out of 15000+600000
+ 552953 words of font info for 438 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  71i,11n,74p,516b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/thomasvargas/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}
@@ -946,10 +989,10 @@ s/type1/public/lm/lmmi12.pfb></Users/thomasvargas/Library/TinyTeX/texmf-dist/fo
 nts/type1/public/lm/lmmi8.pfb></Users/thomasvargas/Library/TinyTeX/texmf-dist/f
 onts/type1/public/lm/lmr12.pfb></Users/thomasvargas/Library/TinyTeX/texmf-dist/
 fonts/type1/public/lm/lmr8.pfb>
-Output written on main_script.pdf (38 pages, 321411 bytes).
+Output written on main_script.pdf (41 pages, 329554 bytes).
 PDF statistics:
- 350 PDF objects out of 1000 (max. 8388607)
- 285 compressed objects within 3 object streams
- 74 named destinations out of 1000 (max. 500000)
- 69770 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 379 PDF objects out of 1000 (max. 8388607)
+ 310 compressed objects within 4 object streams
+ 83 named destinations out of 1000 (max. 500000)
+ 69794 words of extra memory for PDF output out of 74296 (max. 10000000)
 
