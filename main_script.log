@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.7)  10 JUL 2021 15:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.7)  13 JUL 2021 12:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -827,11 +827,11 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 {/Users/thomasvargas/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.m
 ap}]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 173.
+(Font)              <12> on input line 171.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 173.
+(Font)              <8> on input line 171.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 173.
+(Font)              <6> on input line 171.
 \openout3 = `main_script.ent'.
 
 [2] [3] [4] [5]
@@ -839,7 +839,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 File: main_script_files/figure-latex/fig1-1.pdf Graphic file (type pdf)
 <use main_script_files/figure-latex/fig1-1.pdf>
 Package pdftex.def Info: main_script_files/figure-latex/fig1-1.pdf  used on inp
-ut line 427.
+ut line 425.
 (pdftex.def)             Requested size: 358.3488pt x 206.77829pt.
 [6] [7 <./main_script_files/figure-latex/fig1-1.pdf>]
 <main_script_files/figure-latex/plotfig2-1.pdf, id=121, 359.3425pt x 207.77625p
@@ -847,36 +847,33 @@ t>
 File: main_script_files/figure-latex/plotfig2-1.pdf Graphic file (type pdf)
 <use main_script_files/figure-latex/plotfig2-1.pdf>
 Package pdftex.def Info: main_script_files/figure-latex/plotfig2-1.pdf  used on
- input line 513.
+ input line 518.
 (pdftex.def)             Requested size: 359.35806pt x 207.78523pt.
 [8] [9 <./main_script_files/figure-latex/plotfig2-1.pdf>] [10] [11] [12] [13] [
-14] [15]
+14] [15] [16]
 
-Package natbib Warning: Citation `larreguy_political_2017' on page 16 undefined
- on input line 951.
+Package natbib Warning: Citation `larreguy_political_2017' on page 17 undefined
+ on input line 961.
 
-[16] [17] (./tables/table1.tex
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29]
-<main_script_files/figure-latex/plotfig4-1.pdf, id=241, 338.26375pt x 243.91125
+[17] [18] (./tables/table1.tex) [19] [20] [21] [22] [23] [24] [25] [26] [27] [2
+8] [29] [30]
+<main_script_files/figure-latex/plotfig4-1.pdf, id=245, 338.26375pt x 243.91125
 pt>
 File: main_script_files/figure-latex/plotfig4-1.pdf Graphic file (type pdf)
 <use main_script_files/figure-latex/plotfig4-1.pdf>
 Package pdftex.def Info: main_script_files/figure-latex/plotfig4-1.pdf  used on
- input line 1592.
+ input line 1602.
 (pdftex.def)             Requested size: 338.26807pt x 243.91435pt.
-[30] [31 <./main_script_files/figure-latex/plotfig4-1.pdf>]
+[31 <./main_script_files/figure-latex/plotfig4-1.pdf>]
 <main_script_files/figure-latex/plotfig5-1.pdf, id=260, 554.07pt x 280.04625pt>
 
 File: main_script_files/figure-latex/plotfig5-1.pdf Graphic file (type pdf)
 <use main_script_files/figure-latex/plotfig5-1.pdf>
 Package pdftex.def Info: main_script_files/figure-latex/plotfig5-1.pdf  used on
- input line 1634.
+ input line 1644.
 (pdftex.def)             Requested size: 469.75275pt x 237.42935pt.
-[32 <./main_script_files/figure-latex/plotfig5-1.pdf>] [33] (./main_script.ent 
-[34] [35] [36] [37] [38] [39] [40] [41] [42] [43])
+[32 <./main_script_files/figure-latex/plotfig5-1.pdf>] [33] [34] (./main_script
+.ent [35] [36] [37] [38] [39] [40] [41] [42] [43])
 
 Package natbib Warning: There were undefined citations.
 
@@ -885,11 +882,11 @@ Package rerunfilecheck Info: File `main_script.out' has not changed.
 (rerunfilecheck)             Checksum: 9BC7C3F08516E32CD8FC7E9D5E07E549;3590.
  ) 
 Here is how much of TeX's memory you used:
- 18001 strings out of 481009
- 287515 string characters out of 5908040
- 663495 words of memory out of 5000000
+ 17995 strings out of 481009
+ 287461 string characters out of 5908040
+ 664495 words of memory out of 5000000
  34238 multiletter control sequences out of 15000+600000
- 554051 words of font info for 445 fonts, out of 8000000 for 9000
+ 553423 words of font info for 441 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  71i,11n,74p,516b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/thomasvargas/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}
@@ -903,7 +900,7 @@ s/type1/public/lm/lmmi12.pfb></Users/thomasvargas/Library/TinyTeX/texmf-dist/fo
 nts/type1/public/lm/lmmi8.pfb></Users/thomasvargas/Library/TinyTeX/texmf-dist/f
 onts/type1/public/lm/lmr12.pfb></Users/thomasvargas/Library/TinyTeX/texmf-dist/
 fonts/type1/public/lm/lmr8.pfb>
-Output written on main_script.pdf (44 pages, 315977 bytes).
+Output written on main_script.pdf (44 pages, 316372 bytes).
 PDF statistics:
  378 PDF objects out of 1000 (max. 8388607)
  309 compressed objects within 4 object streams
