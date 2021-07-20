@@ -239,63 +239,6 @@ Affairs},
 v--57.
 \@endanenote 
 \@doanenote {4}
-macro:->Sarah
-F.
-Anzia
-and
-Terry
-M.
-Moe,
-``Do
-Politicians
-Use
-Policy
-to
-Make
-Politics?
-The
-Case
-of
-Public-Sector
-Labor
-Laws,''
-\emph
-{American
-Political
-Science
-Review},
-110
-(November
-2016),
-763--777;
-Alexander
-Hertel-Fernandez,
-``Policy
-Feedback
-as
-Political
-Weapon:
-Conservative
-Advocacy
-and
-the
-Demobilization
-of
-the
-Public
-Sector
-Labor
-Movement,''
-\emph
-{Perspectives
-on
-Politics},
-16
-(June
-2018),
-364--379.
-\@endanenote 
-\@doanenote {5}
 macro:->\emph
 {Decentralizing
 the
@@ -313,7 +256,7 @@ University
 Press,
 2005).
 \@endanenote 
-\@doanenote {6}
+\@doanenote {5}
 macro:->``Municipalization
 as
 Central
@@ -338,7 +281,7 @@ Federalism},
 2007),
 1--25.
 \@endanenote 
-\@doanenote {7}
+\@doanenote {6}
 macro:->``Political
 Power,
 Fiscal
@@ -370,7 +313,7 @@ Federalism},
 2008),
 211--247.
 \@endanenote 
-\@doanenote {8}
+\@doanenote {7}
 macro:->``Policy
 Feedback
 as
@@ -396,7 +339,7 @@ Politics},
 2018),
 364--379.
 \@endanenote 
-\@doanenote {9}
+\@doanenote {8}
 macro:->Tulia
 Falleti,
 \emph
@@ -412,7 +355,7 @@ University
 Press,
 2010).
 \@endanenote 
-\@doanenote {10}
+\@doanenote {9}
 macro:->\emph
 {Decentralization
 and
@@ -426,7 +369,7 @@ University
 Press,
 2010).
 \@endanenote 
-\@doanenote {11}
+\@doanenote {10}
 macro:->\emph
 {Democratization
 from
@@ -445,7 +388,7 @@ University
 Press,
 2016).
 \@endanenote 
-\@doanenote {12}
+\@doanenote {11}
 macro:->Merilee
 S.
 Grindle,
@@ -572,7 +515,7 @@ University
 Press,
 2010).
 \@endanenote 
-\@doanenote {13}
+\@doanenote {12}
 macro:->Terry
 M.
 Moe
@@ -633,7 +576,7 @@ Development},
 2019),
 27--38.
 \@endanenote 
-\@doanenote {14}
+\@doanenote {13}
 macro:->Maria
 Victoria
 Murillo,
@@ -663,7 +606,7 @@ Affairs},
 (1999),
 v--57.
 \@endanenote 
-\@doanenote {15}
+\@doanenote {14}
 macro:->Merilee
 S.
 Grindle,
@@ -715,7 +658,7 @@ D.C.
 Baltimore,
 2004).
 \@endanenote 
-\@doanenote {16}
+\@doanenote {15}
 macro:->UNESCO,
 \emph
 {The
@@ -734,7 +677,7 @@ Santiago,
 Chile,
 2001).
 \@endanenote 
-\@doanenote {17}
+\@doanenote {16}
 macro:->Joan
 M.
 Nelson,
@@ -757,7 +700,7 @@ Review},
 2011),
 226--239.
 \@endanenote 
-\@doanenote {18}
+\@doanenote {17}
 macro:->Tulia
 Falleti,
 \emph
@@ -773,7 +716,7 @@ University
 Press,
 2010).
 \@endanenote 
-\@doanenote {19}
+\@doanenote {18}
 macro:->Anwar
 Shah,
 \emph
@@ -788,7 +731,7 @@ Decentralization}
 Bank,
 1998).
 \@endanenote 
-\@doanenote {20}
+\@doanenote {19}
 macro:->Wallace
 E.
 Oates,
@@ -837,7 +780,7 @@ Economy},
 64
 (1956).
 \@endanenote 
-\@doanenote {21}
+\@doanenote {20}
 macro:->Alfred
 P.
 Montero
@@ -865,7 +808,7 @@ Dame,
 Ind,
 2004).
 \@endanenote 
-\@doanenote {22}
+\@doanenote {21}
 macro:->Evelyne
 Huber
 and
@@ -884,7 +827,7 @@ Dataset,
 1960-2012,''
 2012.
 \@endanenote 
-\@doanenote {23}
+\@doanenote {22}
 macro:->Thanks
 to
 XX
@@ -897,7 +840,7 @@ documents
 with
 me.
 \@endanenote 
-\@doanenote {24}
+\@doanenote {23}
 macro:->Ngaire
 Woods,
 \emph
@@ -916,7 +859,7 @@ University
 Press,
 2014).
 \@endanenote 
-\@doanenote {25}
+\@doanenote {24}
 macro:->Teri
 L.
 Caraway,
@@ -974,7 +917,7 @@ Economy},
 2016),
 543--582.
 \@endanenote 
-\@doanenote {26}
+\@doanenote {25}
 macro:->D.
 Brent
 Edwards
@@ -1033,7 +976,7 @@ Ltd,
 2016),
 335--356.
 \@endanenote 
-\@doanenote {27}
+\@doanenote {26}
 macro:->Dennis
 A
 Rondinelli,
@@ -1077,8 +1020,119 @@ Observer},
 1995),
 201--220.
 \@endanenote 
+\@doanenote {27}
+macro:->Joe
+Soss,
+``Lessons
+of
+Welfare:
+Policy
+Design,
+Political
+Learning,
+and
+Political
+Action,''
+\emph
+{The
+American
+Political
+Science
+Review},
+93
+(1999),
+363--380;
+Theda
+Skocpol,
+\emph
+{Protecting
+Soldiers
+and
+Mothers:
+The
+Political
+Origins
+of
+Social
+Policy
+in
+the
+United
+States}
+(Harvard
+University
+Press,
+1995);
+Paul
+Pierson,
+``When
+Effect
+Becomes
+Cause:
+Policy
+Feedback
+and
+Political
+Change,''
+\emph
+{World
+Politics},
+45
+(July
+1993),
+595--628;
+Andrea
+Louise
+Campbell,
+\emph
+{How
+Policies
+Make
+Citizens:
+Senior
+Political
+Activism
+and
+the
+American
+Welfare
+State}
+(Princeton
+University
+Press,
+2003).
+\@endanenote 
 \@doanenote {28}
-macro:->Alexander
+macro:->Sarah
+F.
+Anzia
+and
+Terry
+M.
+Moe,
+``Do
+Politicians
+Use
+Policy
+to
+Make
+Politics?
+The
+Case
+of
+Public-Sector
+Labor
+Laws,''
+\emph
+{American
+Political
+Science
+Review},
+110
+(November
+2016),
+763--777;
+Alexander
 Hertel-Fernandez,
 ``Policy
 Feedback
@@ -1103,33 +1157,7 @@ Politics},
 16
 (June
 2018),
-364--379;
-Sarah
-F.
-Anzia
-and
-Terry
-M.
-Moe,
-``Interest
-Groups
-on
-the
-Inside:
-The
-Governance
-of
-Public
-Pension
-Funds,''
-\emph
-{Perspectives
-on
-Politics},
-17
-(December
-2019),
-1059--1078.
+364--379.
 \@endanenote 
 \@doanenote {29}
 macro:->\emph
@@ -1169,6 +1197,32 @@ Press,
 2016).
 \@endanenote 
 \@doanenote {31}
+macro:->``Policy
+Feedback
+as
+Political
+Weapon:
+Conservative
+Advocacy
+and
+the
+Demobilization
+of
+the
+Public
+Sector
+Labor
+Movement,''
+\emph
+{Perspectives
+on
+Politics},
+16
+(June
+2018),
+364--379.
+\@endanenote 
+\@doanenote {32}
 macro:->Scott
 Mainwaring
 and
@@ -1190,7 +1244,7 @@ Politics},
 (1997),
 449--471.
 \@endanenote 
-\@doanenote {32}
+\@doanenote {33}
 macro:->Anthony
 Downs,
 \emph
@@ -1218,7 +1272,7 @@ Westport,
 Conn,
 1984).
 \@endanenote 
-\@doanenote {33}
+\@doanenote {34}
 macro:->David
 R.
 Mayhew,
@@ -1246,7 +1300,7 @@ University
 Press,
 2003).
 \@endanenote 
-\@doanenote {34}
+\@doanenote {35}
 macro:->Lindsay
 Whitfield
 and
@@ -1281,7 +1335,52 @@ International
 Studies,
 2011).
 \@endanenote 
-\@doanenote {35}
+\@doanenote {36}
+macro:->Candelaria
+Garay,
+\emph
+{Social
+Policy
+Expansion
+in
+Latin
+America}
+(Cambridge
+University
+Press:
+New
+York,
+NY,
+2016);
+Tasha
+Fairfield
+and
+Candelaria
+Garay,
+``Redistribution
+Under
+the
+Right
+in
+Latin
+America:
+Electoral
+Competition
+and
+Organized
+Actors
+in
+Policymaking,''
+\emph
+{Comparative
+Political
+Studies},
+50
+(December
+2017),
+1871--1906.
+\@endanenote 
+\@doanenote {37}
 macro:->Susan
 C.
 Stokes,
@@ -1409,7 +1508,7 @@ Press:
 Baltimore,
 2014).
 \@endanenote 
-\@doanenote {36}
+\@doanenote {38}
 macro:->Rebecca
 Weitz‐Shapiro,
 ``What
@@ -1478,7 +1577,7 @@ Studies},
 2018),
 1441--1471.
 \@endanenote 
-\@doanenote {37}
+\@doanenote {39}
 macro:->``Education
 Reform
 in
@@ -1521,7 +1620,7 @@ D.C.
 Baltimore,
 2004).
 \@endanenote 
-\@doanenote {38}
+\@doanenote {40}
 macro:->Christopher
 Chambers-Ju
 and
@@ -1562,7 +1661,7 @@ University
 Press,
 2017).
 \@endanenote 
-\@doanenote {39}
+\@doanenote {41}
 macro:->``Political
 Brokers:
 Partisans
@@ -1584,7 +1683,7 @@ Science},
 (2017),
 877--891.
 \@endanenote 
-\@doanenote {40}
+\@doanenote {42}
 macro:->Wayne
 Aaron
 Sandholtz,
@@ -1701,7 +1800,7 @@ Press:
 Baltimore,
 2014).
 \@endanenote 
-\@doanenote {41}
+\@doanenote {43}
 macro:->Barbara
 Bruns
 and
@@ -1727,7 +1826,7 @@ Bank
 Publications,
 2015).
 \@endanenote 
-\@doanenote {42}
+\@doanenote {44}
 macro:->Terry
 M.
 Moe
@@ -1760,7 +1859,7 @@ New
 York,
 2016).
 \@endanenote 
-\@doanenote {43}
+\@doanenote {45}
 macro:->Mancur
 Olson,
 \emph
@@ -1789,7 +1888,7 @@ University
 Press,
 1971).
 \@endanenote 
-\@doanenote {44}
+\@doanenote {46}
 macro:->Mark
 Hanson,
 \emph
@@ -1843,7 +1942,7 @@ Affairs},
 (1999),
 v--57.
 \@endanenote 
-\@doanenote {45}
+\@doanenote {47}
 macro:->Merilee
 S.
 Grindle,
@@ -1895,7 +1994,7 @@ D.C.
 Baltimore,
 2004).
 \@endanenote 
-\@doanenote {46}
+\@doanenote {48}
 macro:->Barbara
 Bruns
 and
@@ -1921,7 +2020,7 @@ Education
 Commission,
 2016).
 \@endanenote 
-\@doanenote {47}
+\@doanenote {49}
 macro:->``Adjustment
 Policies,
 Union
@@ -1944,7 +2043,7 @@ Politics},
 2021),
 185--207.
 \@endanenote 
-\@doanenote {48}
+\@doanenote {50}
 macro:->Benjamin
 Goldfrank
 and
@@ -1990,7 +2089,7 @@ York,
 NY,
 2003).
 \@endanenote 
-\@doanenote {49}
+\@doanenote {51}
 macro:->Beverly
 Y.
 Nagel,
@@ -2020,7 +2119,7 @@ History},
 1999),
 148--181.
 \@endanenote 
-\@doanenote {50}
+\@doanenote {52}
 macro:->Gilberto
 Aguilar
 Avilés,
@@ -2062,17 +2161,17 @@ El
 Salvador,
 2012).
 \@endanenote 
-\@doanenote {51}
+\@doanenote {53}
 macro:->Interviews
 ES1,
 ES3,
 ES6
 \@endanenote 
-\@doanenote {52}
+\@doanenote {54}
 macro:->Interview
 ES14
 \@endanenote 
-\@doanenote {53}
+\@doanenote {55}
 macro:->\emph
 {El
 Salvador:
@@ -2090,7 +2189,7 @@ Washington,
 DC,
 1990).
 \@endanenote 
-\@doanenote {54}
+\@doanenote {56}
 macro:->\emph
 {Servicios
 educativos
@@ -2108,11 +2207,11 @@ San
 Salvador,
 1990).
 \@endanenote 
-\@doanenote {55}
+\@doanenote {57}
 macro:->Interview
 ES14
 \@endanenote 
-\@doanenote {56}
+\@doanenote {58}
 macro:->World
 Bank,
 \emph
@@ -2131,7 +2230,7 @@ Washington,
 DC,
 1993).
 \@endanenote 
-\@doanenote {57}
+\@doanenote {59}
 macro:->D.
 Brent
 Edwards
@@ -2156,7 +2255,7 @@ Agenda}
 (Springer,
 2017).
 \@endanenote 
-\@doanenote {58}
+\@doanenote {60}
 macro:->Miguel
 de
 la
@@ -2175,7 +2274,7 @@ Antropología},
 VI
 (1983).
 \@endanenote 
-\@doanenote {59}
+\@doanenote {61}
 macro:->Alvaro
 de
 Soto
@@ -2200,7 +2299,7 @@ Governance},
 (1995),
 189--204.
 \@endanenote 
-\@doanenote {60}
+\@doanenote {62}
 macro:->The
 FMLN
 did
@@ -2233,7 +2332,7 @@ for
 the
 legislature.
 \@endanenote 
-\@doanenote {61}
+\@doanenote {63}
 macro:->``The
 election
 of
@@ -2249,7 +2348,7 @@ Studies},
 1995),
 179--183.
 \@endanenote 
-\@doanenote {62}
+\@doanenote {64}
 macro:->Richard
 Stahler-Sholk,
 ``El
@@ -2274,7 +2373,7 @@ Affairs},
 (1994),
 1--59.
 \@endanenote 
-\@doanenote {63}
+\@doanenote {65}
 macro:->Fabrice
 Edouard
 Lehoucq,
@@ -2293,15 +2392,15 @@ Studies},
 1995),
 179--183.
 \@endanenote 
-\@doanenote {64}
+\@doanenote {66}
 macro:->Interview
 ES11
 \@endanenote 
-\@doanenote {65}
+\@doanenote {67}
 macro:->Interview
 ES10
 \@endanenote 
-\@doanenote {66}
+\@doanenote {68}
 macro:->``El
 Salvadors'
 Insurgents:
@@ -2335,7 +2434,7 @@ available:
 \href
 {https://www.cia.gov/library/readingroom/docs/CIA-RDP04T00794R000100260001-0.pdf}{here}.
 \@endanenote 
-\@doanenote {67}
+\@doanenote {69}
 macro:->\emph
 {After
 Insurgency:
@@ -2356,7 +2455,7 @@ Dame,
 Indiana,
 2018).
 \@endanenote 
-\@doanenote {68}
+\@doanenote {70}
 macro:->From
 a
 newspaper
@@ -2379,7 +2478,7 @@ Gráfica
 11,
 1994).
 \@endanenote 
-\@doanenote {69}
+\@doanenote {71}
 macro:->Acronym
 for
 \emph
@@ -2391,11 +2490,11 @@ Educación}
 or
 ACEs.
 \@endanenote 
-\@doanenote {70}
+\@doanenote {72}
 macro:->Interview
 ES11
 \@endanenote 
-\@doanenote {71}
+\@doanenote {73}
 macro:->D.
 Brent
 Edwards
@@ -2428,7 +2527,7 @@ Leiden
 Boston,
 2019).
 \@endanenote 
-\@doanenote {72}
+\@doanenote {74}
 macro:->Eventually
 the
 World
@@ -2484,13 +2583,13 @@ ES1,
 ES6,
 ES12).
 \@endanenote 
-\@doanenote {73}
+\@doanenote {75}
 macro:->Interviews
 ES5,
 ES6,
 ES12
 \@endanenote 
-\@doanenote {74}
+\@doanenote {76}
 macro:->To
 allay
 the
@@ -2614,42 +2713,42 @@ opportunity
 for
 ARENA.
 \@endanenote 
-\@doanenote {75}
+\@doanenote {77}
 macro:->Interviews
 ES4,
 ES7,
 ES8
 \@endanenote 
-\@doanenote {76}
+\@doanenote {78}
 macro:->Interviews
 ES9
 \@endanenote 
-\@doanenote {77}
+\@doanenote {79}
 macro:->Interviews
 ES1,
 ES2,
 ES3
 \@endanenote 
-\@doanenote {78}
+\@doanenote {80}
 macro:->Interviews
 ES11,
 ES14
 \@endanenote 
-\@doanenote {79}
+\@doanenote {81}
 macro:->Interviews
 ES1,
 ES3
 \@endanenote 
-\@doanenote {80}
+\@doanenote {82}
 macro:->Interviews
 ES5,
 ES11
 \@endanenote 
-\@doanenote {81}
+\@doanenote {83}
 macro:->Interviews
 ES14
 \@endanenote 
-\@doanenote {82}
+\@doanenote {84}
 macro:->\emph
 {Paraguay
 Secondary
@@ -2659,7 +2758,7 @@ Reform}
 Bank,
 2002).
 \@endanenote 
-\@doanenote {83}
+\@doanenote {85}
 macro:->World
 Bank,
 \emph
@@ -2671,7 +2770,7 @@ Data}
 DC,
 2018).
 \@endanenote 
-\@doanenote {84}
+\@doanenote {86}
 macro:->Technically,
 Filizzola
 was
@@ -2680,7 +2779,7 @@ elected
 {intendente
 municipal}.
 \@endanenote 
-\@doanenote {85}
+\@doanenote {87}
 macro:->``Paraguay
 celebra
 sus
@@ -2703,7 +2802,7 @@ available:
 \href
 {https://elpais.com/diario/1991/05/27/internacional/675295206_850215.html}{here}.
 \@endanenote 
-\@doanenote {86}
+\@doanenote {88}
 macro:->David
 Velázquez
 Seiferheld,
@@ -2727,7 +2826,7 @@ Justicia
 Paraguay,
 2018).
 \@endanenote 
-\@doanenote {87}
+\@doanenote {89}
 macro:->Elba
 Beatriz
 Núñez,
@@ -2751,7 +2850,7 @@ Sociales
 Editorial/Editor},
 (2002).
 \@endanenote 
-\@doanenote {88}
+\@doanenote {90}
 macro:->Elias
 Rodolfo,
 \emph
@@ -2771,27 +2870,6 @@ Buenos
 Aires,
 2014).
 \@endanenote 
-\@doanenote {89}
-macro:->Domingo
-M.
-Rivarola,
-\emph
-{La
-reforma
-educativa
-en
-el
-Paraguay}
-(CEPAL,
-2000).
-\@endanenote 
-\@doanenote {90}
-macro:->``Reforma
-Educativa,
-Compromisode
-Todos''
-1992.
-\@endanenote 
 \@doanenote {91}
 macro:->Domingo
 M.
@@ -2807,6 +2885,27 @@ Paraguay}
 2000).
 \@endanenote 
 \@doanenote {92}
+macro:->``Reforma
+Educativa,
+Compromisode
+Todos''
+1992.
+\@endanenote 
+\@doanenote {93}
+macro:->Domingo
+M.
+Rivarola,
+\emph
+{La
+reforma
+educativa
+en
+el
+Paraguay}
+(CEPAL,
+2000).
+\@endanenote 
+\@doanenote {94}
 macro:->María
 Margarita
 Lopez,
@@ -2864,7 +2963,7 @@ de
 Janeiro,
 2009).
 \@endanenote 
-\@doanenote {93}
+\@doanenote {95}
 macro:->Christian
 Schuster,
 \emph
@@ -2889,7 +2988,7 @@ Rochester,
 NY,
 2016).
 \@endanenote 
-\@doanenote {94}
+\@doanenote {96}
 macro:->Andrew
 Nickson,
 ``The
@@ -2933,7 +3032,7 @@ Services},
 (May
 1993).
 \@endanenote 
-\@doanenote {95}
+\@doanenote {97}
 macro:->Gustavo
 Becker
 and
@@ -2972,7 +3071,7 @@ de
 Janeiro,
 2009).
 \@endanenote 
-\@doanenote {96}
+\@doanenote {98}
 macro:->Elba
 Beatriz
 Núñez,
@@ -2996,7 +3095,7 @@ Sociales
 Editorial/Editor},
 (2002).
 \@endanenote 
-\@doanenote {97}
+\@doanenote {99}
 macro:->Rubén
 Gaete,
 \emph
@@ -3025,7 +3124,7 @@ Santiago,
 Chile,
 2012).
 \@endanenote 
-\@doanenote {98}
+\@doanenote {100}
 macro:->Leonardo
 Letelier
 S
@@ -3057,7 +3156,7 @@ Space},
 2018),
 1499--1521.
 \@endanenote 
-\@doanenote {99}
+\@doanenote {101}
 macro:->Gerda
 Palacios
 de
@@ -3076,152 +3175,127 @@ Y
 Desarrollo},
 (2002).
 \@endanenote 
-\@doanenote {100}
-macro:->Ben
-Ansell
-and
-Johannes
-Lindvall,
-``The
-Political
-Origins
-of
-Primary
-Education
-Systems:
-Ideology,
-Institutions,
-and
-Interdenominational
-Conflict
-in
+\@doanenote {102}
+macro:->Thanks
+to
 an
-Era
-of
-Nation-Building,''
+anonymous
+reviewer
+for
+this
+point.
+\@endanenote 
+\@doanenote {103}
+macro:->Simeon
+Nichter,
+``Vote
+Buying
+or
+Turnout
+Buying?
+Machine
+Politics
+and
+the
+Secret
+Ballot,''
 \emph
-{American
+{The
+American
 Political
 Science
 Review},
-107
-(August
-2013),
-505--522;
-Stephen
-Kosack,
-\emph
-{The
-Education
-of
-Nations:
-How
-the
-Political
-Organization
-of
-the
-Poor,
-Not
-Democracy,
-Led
-Governments
-to
-Invest
-in
-Mass
-Education}
-(Oxford
-University
-Press,
-2012);
-Terry
-M.
-Moe
+102
+(2008),
+19--31;
+Lenka
+Bustikova
 and
-Susanne
-Wiborg,
-eds.,
-\emph
-{The
-Comparative
-Politics
-of
-Education:
-Teachers
-Unions
+Cristina
+Corduneanu-Huci,
+``Patronage,
+Trust,
 and
-Education
-Systems
-around
-the
-World}
+State
+Capacity:
+The
+Historical
+Trajectories
+of
+Clientelism,''
+\emph
+{World
+Politics},
+69
+(April
+2017),
+277--326;
+Susan
+C.
+Stokes,
+Thad
+Dunning,
+Marcelo
+Nazareno
+and
+Valeria
+Brusco,
+\emph
+{Brokers,
+Voters,
+and
+Clientelism:
+The
+Puzzle
+of
+Distributive
+Politics}
 (Cambridge
 University
-Press:
-Cambridge,
-United
-Kingdom
-;
-New
-York,
-2016).
-\@endanenote 
-\@doanenote {101}
-macro:->Michelle
-Dion,
-``International
-Organizations
+Press,
+2013);
+Mariela
+Szwarcberg,
+``Uncertainty,
+Political
+Clientelism,
 and
-Social
-Insurance
+Voter
+Turnout
 in
-Mexico:''
+Latin
+America:
+Why
+Parties
+Conduct
+Rallies
+in
+Argentina,''
 \emph
-{Global
+{Comparative
+Politics},
+(October
+2012).
+\@endanenote 
+\@doanenote {104}
+macro:->\emph
+{Uneven
 Social
-Policy},
-(April
-2008);
-Candelaria
-Garay,
-\emph
-{Social
-Policy
-Expansion
+Policies:
+The
+Politics
+of
+Subnational
+Variation
 in
 Latin
 America}
 (Cambridge
 University
-Press:
-New
-York,
-NY,
-2016);
-Ana
-Lorena
-De
-La
-O,
-\emph
-{Crafting
-Policies
-to
-End
-Poverty
-in
-Latin
-America:
-The
-Quiet
-Transformation}
-(Cambridge
-University
 Press,
-2015).
+2018).
 \@endanenote 
-\@doanenote {102}
+\@doanenote {105}
 macro:->Alejandro
 Bonilla,
 \emph
@@ -3343,49 +3417,33 @@ McMaster
 University,
 2016).
 \@endanenote 
-\@doanenote {103}
-macro:->Eduardo
-Lora,
-ed.,
-\emph
-{Beyond
-Facts:
-Understanding
-Quality
-of
-Life}
-(Inter-American
-Development
-Bank,
-2008).
-\@endanenote 
-\@doanenote {104}
-macro:->Taylor
-C.
-Boas,
-F.
-Daniel
-Hidalgo
+\@doanenote {106}
+macro:->Maria
+Victoria
+Murillo,
+``Recovering
+Political
+Dynamics:
+Teachers'
+Unions
 and
-Guillermo
-Toral,
-``Competence
-versus
-Priorities:
-Negative
-Electoral
-Responses
-to
-Education
-Quality
-in
-Brazil,''
-\emph
-{The
-Journal
+the
+Decentralization
 of
-Politics},
-(May
-2021),
-000--000.
+Education
+in
+Argentina
+and
+Mexico,''
+\emph
+{Journal
+of
+Interamerican
+Studies
+and
+World
+Affairs},
+41
+(1999),
+v--57.
 \@endanenote 
