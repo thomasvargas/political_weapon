@@ -1,7 +1,7 @@
 # Decentralization as a Political Weapon: Education Politics in El Salvador and Paraguay
 Thomas R. Vargas
 
-Forthcoming in *Comparative Politics*. :) 
+Forthcoming in *Comparative Politics*.
 
 This repository holds the Rmarkdown script to reproduce "Decentralization as a Political Weapon: Education Politics in El Salvador and Paraguay" in its entirety.  
 
